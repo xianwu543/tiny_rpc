@@ -1,6 +1,5 @@
-tiny_rpc
-
-该rpc项目是在学校自己学习的。（The project I did in college.）
+# reactor
+该项目是在学校自己学习的。（The project I did in college.）
 
 bin --可执行文件存放目录
 build --CMake、makefile编译目录
