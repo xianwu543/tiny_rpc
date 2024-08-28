@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/mprpc/build/src",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/mprpc.dir/logger.cc.o -c /mprpc/src/logger.cc",
+  "file": "/mprpc/src/logger.cc"
+},
+{
+  "directory": "/mprpc/build/src",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /mprpc/src/mprpcapplication.cc",
+  "file": "/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/mprpc/build/src",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /mprpc/src/mprpcchannel.cc",
+  "file": "/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/mprpc/build/src",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /mprpc/src/mprpcconfig.cc",
+  "file": "/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/mprpc/build/src",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /mprpc/src/mprpccontroller.cc",
+  "file": "/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/mprpc/build/src",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /mprpc/src/rpcheader.pb.cc",
+  "file": "/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/mprpc/build/src",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /mprpc/src/rpcprovider.cc",
+  "file": "/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/mprpc/build/src",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /mprpc/src/zookeeperutil.cc",
+  "file": "/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/mprpc/build/example/callee",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/provider.dir/friendservice.cc.o -c /mprpc/example/callee/friendservice.cc",
+  "file": "/mprpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/mprpc/build/example/callee",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /mprpc/example/friend.pb.cc",
+  "file": "/mprpc/example/friend.pb.cc"
+},
+{
+  "directory": "/mprpc/build/example/caller",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /mprpc/example/caller/callfriendservice.cc",
+  "file": "/mprpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/mprpc/build/example/caller",
+  "command": "/usr/bin/c++   -I/mprpc/src/include -I/mprpc/example  -g   -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /mprpc/example/friend.pb.cc",
+  "file": "/mprpc/example/friend.pb.cc"
+}
+]

@@ -1,0 +1,2 @@
+14:20:18 =>[info] serviceName:FriendServiceRpc
+14:20:18 =>[info] methodName:GetFriendsList
